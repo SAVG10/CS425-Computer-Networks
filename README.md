@@ -1,6 +1,6 @@
 # Computer Networks
 
-This repository contains a collection of 4 assignments completed as part of the CS425: Computer Networks course at IIT Kanpur under Prof. Adithya Vadapalli (Jan '25 – Apr '25). Each assignment focuses on a core networking concept, implemented from scratch using C++ and Python.
+This repository contains a collection of 4 assignments completed as part of the CS425: Computer Networks course at IIT Kanpur under Prof. Adithya Vadapalli (Jan '25 – Apr '25). Each assignment focuses on a core networking concept, implemented from scratch using C++ and Python. They include a chat server, dns resolver, tcp handshake constructor and a routing simulator
 
 ---
 
