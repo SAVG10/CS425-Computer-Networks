@@ -178,14 +178,6 @@ Note that extract_next_nameservers function is unable to map all the name server
 
 ---
 
-## Contribution of Each Member
-
-| Team Member               | Contribution (%) | Responsibilities                                                       |
-| ------------------------- | ---------------- | ---------------------------------------------------------------------- |
-| Aarsh Walavalkar (220013) | 50%              | Implemented iterative resolution, error handling, debugging and README |
-| Nilay Agarwal(220714)     | 50%              | Implemented recursive resolution, integration, testing and README      |
-
----
 
 ## Sources Referred
 

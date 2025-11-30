@@ -112,13 +112,6 @@ This is a multi-threaded chat server that enables user authentication, private m
 - **Thread Management**: Ensuring proper cleanup of disconnected clients.
 - **Message Parsing**: Handling different command formats efficiently.
 
-## Contribution of Each Member
-
-| Team Member              | Contribution (%) | Responsibilities                                                                   |
-| ------------------------ | ---------------- | ---------------------------------------------------------------------------------- |
-| Nilay Agarwal(220714)    | 50%              | Server architecture, Threading, Authentication, Message handling, Debugging        |
-| Aarsh Walavalkar(220013) | 50%              | Message handling, Group management, Testing, README preparation, Final refinements |
-
 ## Sources Referred
 
 - CS425 Lecture Slides

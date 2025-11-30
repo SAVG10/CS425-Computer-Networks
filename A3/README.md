@@ -137,13 +137,6 @@ The client’s SYN and final ACK packets are constructed with hardcoded sequence
 - **Packet Validation**: Ensured correct parsing of TCP headers and flag bits.
 - **Timeout Handling**: Prevented indefinite wait by implementing `select()`.
 
-## Contribution of Each Member
-
-| Team Member               | Contribution (%) | Responsibilities                                                                |
-| ------------------------- | ---------------- | ------------------------------------------------------------------------------- |
-| Nilay Agarwal (220714)    | 50%              | Client architecture, handshake implementation, sequence number logic, debugging |
-| Aarsh Walavalkar (220013) | 50%              | Timeout logic, packet validation, testing, documentation and README preparation |
-
 ## References
 
 - CS425 Lecture Slides and Notes

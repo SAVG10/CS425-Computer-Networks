@@ -61,12 +61,6 @@ make clean
 5. The `simulateLSR` function executes Dijkstra’s algorithm for each node to determine shortest paths.
 6. The output from LSR is displayed using `printLSRTable`.
 
-## Individual Contributions
-
-| Member Name             | Roll Number | Contributions (50% each)                                                                                  |
-| ----------------------- | ----------- | --------------------------------------------------------------------------------------------------------- |
-| Nilay Agarwal           | 220714      | Implemented the Link State Routing algorithm, Dijkstra’s logic, and structured program control flow       |
-| Aarsh Ashish Walavalkar | 220013      | Implemented the Distance Vector Routing algorithm, file parsing, and output formatting for routing tables |
 
 ## Sources
 
